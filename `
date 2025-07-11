@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Multiconnect Newsletter</title>
+</head>
+<body style="margin:0; padding:0; font-family:Arial,sans-serif; background:#e6f0ff;">
+  <table align="center" cellpadding="0" cellspacing="0" width="600" style="background:#ffffff; margin-top:30px; border-collapse:collapse;">
+    <tr>
+      <td align="center" style="padding: 20px 0;">
+        <img src="cid:multiconnect_logo" alt="Multiconnect Logo" width="180" style="display:block;" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 20px;">
+        <h2 style="color:#2c3e50;">🚛 Multiconnect – Votre partenaire logistique fiable entre Haïti et la République Dominicaine</h2>
+        <p style="font-size:15px; color:#444;">Depuis <strong>2022</strong>, <strong>Multiconnect</strong> accompagne entreprises et entrepreneurs dans le <strong>transport et la logistique</strong> entre <strong>Haïti</strong> et la <strong>République Dominicaine</strong> — dans les deux sens.</p>
+        <p style="font-size:15px; color:#444;">Un service <strong>professionnel, rapide et sécurisé</strong>, avec une attention personnalisée à chaque client.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 0 20px;">
+        <h3 style="color:#2c3e50;">📍 Où nous trouver ?</h3>
+        <ul style="font-size:15px; color:#444;">
+          <li>🇭🇹 <strong>Haïti :</strong> Delmas 75, Rue Jean Jules</li>
+          <li>🇩🇴 <strong>République Dominicaine :</strong> Plaza Celina, 2do piso, Santo Domingo</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 0 20px;">
+        <h3 style="color:#2c3e50;">📦 Nos services :</h3>
+        <ul style="font-size:15px; color:#444;">
+          <li>✅ Transport Haïti → RD</li>
+          <li>✅ Transport RD → Haïti</li>
+          <li>✅ Suivi personnalisé de vos colis</li>
+          <li>✅ Service clients bilingue (FR / ES / EN)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 0 20px;">
+        <h3 style="color:#2c3e50;">👩‍💼 Administratrice – Nel-Ange ST CYR</h3>
+        <p style="font-size:15px; color:#444;">Entrepreneure haïtienne, ingénieure agronome (Université Quisqueya) et étudiante en maîtrise en développement régional (UQAR), fondatrice de <strong>Valplast</strong>, engagée pour une logistique durable et responsable dans la région.</p>
+        <p><a href="https://www.linkedin.com/in/nelangestcyr/" target="_blank" style="color:#1e88e5;">Voir son profil LinkedIn</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 0 20px;">
+        <h3 style="color:#2c3e50;">🔗 Suivez-nous :</h3>
+        <p style="font-size:15px; color:#444;">
+          📲 Instagram : <a href="https://www.instagram.com/multi_connect_rd" style="color:#1e88e5;">@multi_connect_rd</a><br/>
+          🎥 TikTok : <a href="https://www.tiktok.com/@multiconnect_rd" style="color:#1e88e5;">@multiconnect_rd</a><br/>
+          📍 Google Maps : <a href="https://www.google.com/maps?q=plaza+celina+santo+domingo" style="color:#1e88e5;">Plaza Celina, Santo Domingo</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 0
